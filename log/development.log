@@ -1,0 +1,4 @@
+
+
+Processing Rails::InfoController#properties (for 127.0.0.1 at 2011-04-29 10:52:03) [GET]
+Completed in 578ms (View: 31, DB: 0) | 200 OK [http://127.0.0.1/rails/info/properties]
